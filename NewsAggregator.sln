@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsAggregatorAPI", "NewsAggregatorAPI\NewsAggregatorAPI.csproj", "{272B289D-1432-4A4A-93D0-F22E4DF275E1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsAggregatorUI", "NewsAggregatorUI\NewsAggregatorUI.csproj", "{DC3F4DBF-E406-4398-8925-06466B60DAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsAggregatorAPI", "NewsAggregatorAPI\NewsAggregatorAPI.csproj", "{298816F6-1B36-4C94-AAE4-EA070877D974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{272B289D-1432-4A4A-93D0-F22E4DF275E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{272B289D-1432-4A4A-93D0-F22E4DF275E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{272B289D-1432-4A4A-93D0-F22E4DF275E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{272B289D-1432-4A4A-93D0-F22E4DF275E1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DC3F4DBF-E406-4398-8925-06466B60DAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC3F4DBF-E406-4398-8925-06466B60DAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC3F4DBF-E406-4398-8925-06466B60DAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC3F4DBF-E406-4398-8925-06466B60DAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298816F6-1B36-4C94-AAE4-EA070877D974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298816F6-1B36-4C94-AAE4-EA070877D974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298816F6-1B36-4C94-AAE4-EA070877D974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298816F6-1B36-4C94-AAE4-EA070877D974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
